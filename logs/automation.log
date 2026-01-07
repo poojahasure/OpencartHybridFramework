@@ -1,0 +1,22 @@
+11:06:24.266 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:06:24.287 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:37:14.423 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+16:37:16.304 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+16:37:16.343 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+16:37:18.486 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:37:19.899 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+12:01:49.049 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:01:51.053 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:01:51.099 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:01:53.501 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+12:01:54.910 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+12:04:43.634 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:04:45.586 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:04:45.624 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:04:47.994 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+12:04:49.458 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+16:58:34.684 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+16:58:36.637 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+16:58:36.707 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+16:58:39.262 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:58:40.671 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****

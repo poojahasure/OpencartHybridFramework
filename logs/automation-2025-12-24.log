@@ -1,0 +1,44 @@
+11:02:49.578 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+11:02:51.397 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+11:02:51.424 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+11:06:44.687 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+11:06:46.662 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+11:06:46.704 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+11:10:51.676 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+11:10:53.758 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:09:09.243 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:09:11.417 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:09:11.457 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:09:49.649 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:09:49.707 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:09:53.440 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:09:53.468 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:09:53.506 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:09:53.521 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:13:27.413 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:13:29.204 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:13:29.241 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:18:23.236 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:18:25.159 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:18:25.193 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:18:28.584 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:18:31.025 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:18:31.056 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:19:26.755 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:19:28.649 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:19:28.694 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:19:31.030 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:19:32.916 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:19:32.952 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:20:43.559 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:20:45.541 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:20:45.586 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:20:47.937 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:20:50.228 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:20:50.259 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:22:00.944 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:22:00.989 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting   TC001 AccountRegistrationTest  *****
+12:22:04.087 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:22:04.136 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
+12:22:04.143 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message
+12:22:04.241 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished   TC001 AccountRegistrationTest  *****
